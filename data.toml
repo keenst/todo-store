@@ -1,9 +1,7 @@
-Tasks = []
+Goals = []
+GoalCounter = 0
+TaskCounter = 1
 
-[[Goals]]
-Name = 'test'
-GoalType = 0
-TallyMax = 0
-TallyProgress = 0
-Elements = []
-ElementsDone = []
+[[Tasks]]
+Name = 'skibidi'
+Index = 1
