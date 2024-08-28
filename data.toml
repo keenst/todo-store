@@ -1,4 +1,12 @@
-Goals = []
 Tasks = []
-GoalCounter = 0
+GoalCounter = 1
 TaskCounter = 0
+
+[[Goals]]
+Name = 'skibidi'
+Index = 0
+GoalType = 0
+TallyMax = 0
+TallyProgress = 0
+Elements = []
+ElementsDone = []
