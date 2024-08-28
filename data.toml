@@ -1,2 +1,5 @@
-Goals = []
 Tasks = []
+
+[[Goals]]
+Name = "test\r\n"
+GoalType = 0
