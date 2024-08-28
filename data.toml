@@ -1,10 +1,20 @@
 Tasks = []
-GoalCounter = 1
+GoalCounter = 2
 TaskCounter = 0
 
 [[Goals]]
 Name = 'skibidi'
 Index = 0
+GoalType = 0
+Elements = []
+
+[Goals.Tally]
+Max = 0
+Progress = 0
+
+[[Goals]]
+Name = 'gyat'
+Index = 1
 GoalType = 0
 Elements = []
 
