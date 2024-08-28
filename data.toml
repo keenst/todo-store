@@ -3,3 +3,7 @@ Tasks = []
 [[Goals]]
 Name = "test\r\n"
 GoalType = 0
+
+[[Goals]]
+Name = 'test2'
+GoalType = 0
