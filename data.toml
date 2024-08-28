@@ -3,3 +3,7 @@ Tasks = []
 [[Goals]]
 Name = 'test'
 GoalType = 0
+TallyMax = 0
+TallyProgress = 0
+Elements = []
+ElementsDone = []
