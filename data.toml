@@ -11,13 +11,3 @@ Elements = []
 [Goals.Tally]
 Max = 0
 Progress = 0
-
-[[Goals]]
-Name = 'gyat'
-Index = 2
-GoalType = 0
-Elements = []
-
-[Goals.Tally]
-Max = 0
-Progress = 0
