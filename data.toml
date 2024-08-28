@@ -6,7 +6,8 @@ TaskCounter = 0
 Name = 'skibidi'
 Index = 0
 GoalType = 0
-TallyMax = 0
-TallyProgress = 0
 Elements = []
-ElementsDone = []
+
+[Goals.Tally]
+Max = 0
+Progress = 0
