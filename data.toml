@@ -1,5 +1,5 @@
 GoalCounter = 3
-TaskCounter = 2
+TaskCounter = 3
 
 [[Goals]]
 Name = 'skibidi'
@@ -18,3 +18,7 @@ Index = 0
 [[Tasks]]
 Name = 'test'
 Index = 1
+
+[[Tasks]]
+Name = 'toilet'
+Index = 2
