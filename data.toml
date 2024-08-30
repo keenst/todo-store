@@ -8,7 +8,7 @@ GoalType = 0
 Elements = []
 
 [Goals.Tally]
-Max = 0
+Max = 10
 Progress = 0
 
 [[Tasks]]
