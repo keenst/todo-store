@@ -1,9 +1,5 @@
-GoalCounter = 0
-TaskCounter = 0
-
 [[Goals]]
 Name = 'skibidi'
-Index = 0
 GoalType = 0
 Elements = []
 
@@ -13,12 +9,9 @@ Progress = 0
 
 [[Tasks]]
 Name = 'gyat'
-Index = 0
 
 [[Tasks]]
 Name = 'test'
-Index = 0
 
 [[Tasks]]
 Name = 'toilet'
-Index = 0
