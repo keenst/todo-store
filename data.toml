@@ -43,6 +43,15 @@ Elements = []
 Max = 0
 Progress = 0
 
+[[Goals]]
+Name = 'test'
+GoalType = 3
+Elements = []
+
+[Goals.Tally]
+Max = 0
+Progress = 0
+
 [[Tasks]]
 Name = 'gyat'
 
